@@ -1,0 +1,3 @@
+# CloudFront configuration (mock)
+aws cloudfront create-distribution --origin-domain-name my-first-bucket-aidangotch.s3.amazonaws.com
+# CloudFront would serve content globally from S3 bucket
